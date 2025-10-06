@@ -9,11 +9,11 @@ The user interface features a modern, dark, glassmorphic design that is both res
 Here are a couple of screenshots showcasing the application's design and functionality:
 
 ### Main View
-![Main Counter View](screenshots/form_preview.png)
+![Main Counter View](screenshots/counter.png)
 *(Replace `URL_TO_YOUR_IMAGE_1` with the actual URL or relative path to your first image, e.g., `./screenshots/main-view.png`)*
 
 ### Custom Controls Detail
-![Custom Controls Detail](screenshots/form_preview.png)
+![Custom Controls Detail](screenshots/counter2.png)
 *(Replace `URL_TO_YOUR_IMAGE_2` with the actual URL or relative path to your second image, e.g., `./screenshots/custom-controls.png`)*
 
 ---
